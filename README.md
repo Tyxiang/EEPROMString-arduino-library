@@ -1,1 +1,1 @@
-# EEPROMString
+# Arduino Library EEPROMString
